@@ -1,0 +1,11 @@
+main {
+
+    .container {
+        padding: 0 40px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+}
